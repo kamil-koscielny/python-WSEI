@@ -1,4 +1,6 @@
 requests
+pymongo
+mongomock
 beautifulsoup4
 ipykernel
 pandas
